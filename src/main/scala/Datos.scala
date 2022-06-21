@@ -1,3 +1,5 @@
+// Author: Andrés Trigueros
+
 object Datos {
   def main(args: Array[String]){
     // INICIALIZO LOS DATOS
